@@ -142,7 +142,7 @@ body{
       width: 330px;
       height: 25px;
       border-radius: 50%;
-      background: rgba(0,0,0,0.3);
+      background: rgba(255,192,203);
       top: 480px;
       left: 40em;
       animation: scale 3s linear infinite;
